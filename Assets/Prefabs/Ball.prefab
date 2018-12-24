@@ -186,7 +186,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   paddle1: {fileID: 0}
-  xLaunch: 0
+  xLaunch: 2
   yLaunch: 10
   ballSounds:
   - {fileID: 8300000, guid: 16f3c6202a9e4de4b99d48304925b72b, type: 3}
@@ -194,6 +194,7 @@ MonoBehaviour:
   - {fileID: 8300000, guid: e29d6adb5c60f8b4fa7fbca8a37c3c47, type: 3}
   - {fileID: 8300000, guid: 412d4e07fd5d432499f96c942c52fc07, type: 3}
   - {fileID: 8300000, guid: 472054af83f333149ac44d8a5263722b, type: 3}
+  randomFactor: 0.2
 --- !u!212 &212969295900706052
 SpriteRenderer:
   m_ObjectHideFlags: 1
