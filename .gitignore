@@ -1,3 +1,5 @@
+
 il2cpp_cache/
 Library/
+*.bc
 *.log
